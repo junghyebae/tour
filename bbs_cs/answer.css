@@ -1,0 +1,102 @@
+@CHARSET "UTF-8";
+td{
+	border-bottom: 1px solid lightgray; 
+}
+td{
+	padding-bottom: 5px;
+	padding-top:5px;
+	text-align: center;
+}
+th{
+	border-bottom:2px solid #0191C8;
+	border-top: 2px solid #0191C8;
+	padding: 15px;
+}
+form {
+	padding-left: 250px; padding-right: 250px; padding-top: 30px;
+}
+
+table{
+	padding: 15px;
+    width: 100%;
+    border-spacing: 0;
+}
+td.testbordernone{
+	border-bottom: 0px;
+}
+td.test1{
+	border-bottom: 1px solid lightgray;
+	border-top: 1px solid lightgray;
+}
+
+.findwordcss{
+	width: 230px;
+    height: 32px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    padding-right: 0px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-right: 5px;
+	
+}
+.buttoncss{
+	border-top-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    height: 34px;
+    width: 57px;
+    border-bottom-width: 1px;
+    background-color: #66ccff;
+    margin-right: 5px;
+}
+
+.font{
+	font-size: small; 
+	color:#66ccff;
+}
+.inputtextcss{
+	border-left-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-top-width: 1px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 422px;
+    height: 38px;
+}
+.textareacss{
+	width: 424px;
+    padding-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    height: 209px;
+}
+.optioncss{
+	height: 32px;
+    width: 107px;
+}
+.buttoncss1{
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    height: 34px;
+    width: 100px;
+    border-bottom-width: 1px;
+    background-color: #ddf0f7;
+    margin-right: 5px;
+	
+}
+
+
